@@ -34,7 +34,6 @@ To achieve the goal, your agent must get an average score of +0.5 (over 100 cons
 
 3. Download the environment that matches your operating system, place it in `DDPG-Collab-Competition/` folder, and unzip it.
 
-    Version 1: One (1) Agent
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
